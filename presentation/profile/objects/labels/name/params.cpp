@@ -1,0 +1,1 @@
+value: List(name).Name //Суть в том что у обьекта

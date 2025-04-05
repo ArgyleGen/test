@@ -1,0 +1,22 @@
+Window(main)
+{
+    Row()
+    {
+        Button(close)
+    }
+    Row()
+    {
+        Column(left)
+        {
+            Input(name)
+            Button(save)
+        }
+        
+        Column(right)
+        {
+            List(name){
+                Label(name)
+            }
+        }
+    }
+}

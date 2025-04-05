@@ -1,0 +1,2 @@
+horizontal: right
+vertical: center
